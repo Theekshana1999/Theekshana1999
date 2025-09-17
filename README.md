@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4fc3f7;">Sihina Nimnada</span></h1>
-<h3 align="center">💻 Passionate Software Developer from <b>Sri Lanka</b> 🌍</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#4fc3f7;">Theekshana Amamadu</span></h1>
+<h3 align="center">📱 Passionate Flutter Developer from <b>Sri Lanka</b> 🌍</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **Spring Boot**  
-- 💙 I enjoy working with **Java & Spring Boot**  
-- 💻 I develop **MERN Stack Web Applications**  
-- 📫 Reach me at: **[nimnadasihina@gmail.com](mailto:nimnadasihina@gmail.com)**  
+- 🌱 Currently learning **Mobile Application development**  
+- 💙 I enjoy working with **Flutter & Drat**  
+- 💻 I develop **Flutter Android & IOS Applications**  
+- 📫 Reach me at: **[theekshana.amamadu@gmail.com](mailto:theekshana.amamadu@gmail.com)**  
 - ⚡ Fun fact: *I think I’m funny 😅*  
 
 
@@ -15,9 +15,8 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://twitter.com/sihina2276" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://www.linkedin.com/in/sihina-nimnada-974b91256/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:nimnadasihina@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="www.linkedin.com/in/theekshana-amamadu-9a760929b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:theekshana.amamadu@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
@@ -27,9 +26,7 @@
 ### **Frontend**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" />
 </p>
 
@@ -37,8 +34,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/express/000000" height="50" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
 </p>
 
 ### **Databases**
